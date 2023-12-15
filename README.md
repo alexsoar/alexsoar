@@ -3,15 +3,15 @@ Over 10 years in development, management and marketing. During my career I have 
 Including assembling a team from scratch for a specific project. Started turnkey projects, from the idea and requirements gathering to the expected result.
 I have experience in developing a startup from scratch to MVP.
 
-👀 My technical skills:
+👀 My technical skills: <br>
 Agile, Scrum, Kanban, Miro, Jira, Figma, Canva,  
 HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/React, Laravel, Git, Postman, Gitlab CI/CD, Docker, JSON, REST API, SQL, Adobe CS, VS code, Webstorm
 
-🌱 My soft skills:
+🌱 My soft skills: <br>
 Communication skills, responsibility, leadership skills, critical thinking, proactivity, ability to present concepts, justifying your design decisions, emotional intelligence
 
-📫 How to reach me: 
-Write me in telegram @alexsoar 
+📫 How to reach me: <br>
+Write me in telegram @alexsoar <br>
 My Linkedin: https://www.linkedin.com/in/alexsoar
 
 <!---
