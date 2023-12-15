@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex
+👋 Hi, I’m Alex <br>
 Over 10 years in development, management and marketing. During my career I have implemented many interesting and diverse projects.
 Including assembling a team from scratch for a specific project. Started turnkey projects, from the idea and requirements gathering to the expected result.
 I have experience in developing a startup from scratch to MVP.
