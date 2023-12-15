@@ -11,7 +11,7 @@ HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/React, Laravel, Git, Postma
 Communication skills, responsibility, leadership skills, critical thinking, proactivity, ability to present concepts, justifying your design decisions, emotional intelligence
 
 📫 How to reach me: 
-Write me in telegram @alexsoar
+Write me in telegram @alexsoar 
 My Linkedin: https://www.linkedin.com/in/alexsoar
 
 <!---
