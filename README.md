@@ -12,7 +12,7 @@ Communication skills, responsibility, leadership skills, critical thinking, proa
 
 📫 How to reach me: 
 Write me in telegram @alexsoar
-My Linkedin: [Alex Soar (https://www.linkedin.com/in/alexsoar/)]
+My Linkedin: [Alex Soar] (https://www.linkedin.com/in/alexsoar/)
 
 <!---
 alexsoar/alexsoar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
