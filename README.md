@@ -1,7 +1,5 @@
 👋 Hi, I’m Alex - London based frontend developer <br>
-Over 10 years in development, management and marketing. During my career I have implemented many interesting and diverse projects.
-Including assembling a team from scratch for a specific project. Started turnkey projects, from the idea and requirements gathering to the expected result.
-I have experience in developing a startup from scratch to MVP.
+Frontend developer with a focus on clean HTML, CSS layout.  With knowledge of Flexbox, Grid CSS, SCSS, Bootstrap, Basic JavaScript. Experience in ReactJS application development. More than 5 years in website development for small and medium-sized businesses, including web applications of varying levels of complexity. Attentive and diligent with good communication skills.
 
 👀 My technical skills: <br>
 HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/ReactJS, Laravel, Git, Postman, Gitlab CI/CD, Docker, JSON, REST API, SQL, 
