@@ -12,7 +12,7 @@ Adobe CS, VS code, Webstorm, Agile, Scrum, Kanban, Miro, Jira, Figma, Canva, Not
 Communication skills, responsibility, leadership skills, critical thinking, proactivity, ability to present concepts, justifying your design decisions, emotional intelligence
 
 📫 How to reach me: <br>
-Write me in telegram https://t.me/username <br>
+Write me in telegram https://t.me/alexsoar <br>
 My Linkedin: https://www.linkedin.com/in/alexsoar
 
 <!---
