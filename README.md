@@ -4,8 +4,9 @@ Including assembling a team from scratch for a specific project. Started turnkey
 I have experience in developing a startup from scratch to MVP.
 
 👀 My technical skills: <br>
-Agile, Scrum, Kanban, Miro, Jira, Figma, Canva,  
-HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/React, Laravel, Git, Postman, Gitlab CI/CD, Docker, JSON, REST API, SQL, Adobe CS, VS code, Webstorm
+HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/ReactJS, Laravel, Git, Postman, Gitlab CI/CD, Docker, JSON, REST API, SQL, 
+MongoDB, Express, NodeJS,
+Adobe CS, VS code, Webstorm, Agile, Scrum, Kanban, Miro, Jira, Figma, Canva, Notion
 
 🌱 My soft skills: <br>
 Communication skills, responsibility, leadership skills, critical thinking, proactivity, ability to present concepts, justifying your design decisions, emotional intelligence
