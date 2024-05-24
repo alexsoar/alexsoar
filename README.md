@@ -1,5 +1,5 @@
 👋 Hi, I’m Alex - frontend developer <br>
-Frontend developer with a focus on clean HTML, CSS layout.  With knowledge of Flexbox, Grid CSS, SCSS, Bootstrap, Basic JavaScript. Experience in ReactJS application development. More than 5 years in website development for small and medium-sized businesses, including web applications of varying levels of complexity. Attentive and diligent with good communication skills.
+Frontend developer with a focus on clean HTML, CSS layout.  With knowledge of Flexbox, Grid CSS, SCSS, Bootstrap, Basic JavaScript. Experience in ReactJS application development. More than 4 years in website development for small and medium-sized businesses, including web applications of varying levels of complexity. Attentive and diligent with good communication skills.
 
 👀 My technical skills: <br>
 HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/ReactJS, Laravel, Git, Postman, Gitlab CI/CD, Docker, JSON, REST API, SQL, NodeJS,
