@@ -1,9 +1,13 @@
 👋 Hi, I’m Alex - frontend developer <br>
-Frontend developer with a focus on clean HTML, CSS layout.  With knowledge of Flexbox, Grid CSS, SCSS, Bootstrap, Basic JavaScript. Experience in ReactJS application development. More than 4 years in website development for small and medium-sized businesses, including web applications of varying levels of complexity. Attentive and diligent with good communication skills.
+Experienced Web Developer specializing in corporate websites, landing pages, online shops, and web applications.
+Proficient in CMS platforms such as WordPress (WooCommerce) and other CMS. Skilled in developing web
+applications using React JS and JavaScript, with strong expertise in HTML, CSS, Bootstrap, Tailwind.CSS and etc.
+Adept at quickly learning new technologies and continuously expanding my skill set. Additional competencies
+include photo processing, SEO, and Project management. Proven track record of working in distributed, cross-functional teams and contributing to startup development.
 
 👀 My technical skills: <br>
-HTML, CSS, JavaScript, SASS, Bootstrap, Webpack, Vue/ReactJS, Laravel, Git, Postman, Gitlab CI/CD, Docker, JSON, REST API, SQL, NodeJS,
-Adobe CS, VS code, Webstorm, Agile, Scrum, Kanban, Miro, Jira, Figma, Canva, Notion
+HTML, CSS, JavaScript, SCSS/SASS, Bootstrap, Webpack, ReactJS, Laravel, Git, Gitlab CI/CD, Docker, JSON, REST API, SQL, DRY, KISS, SOLID,
+Adobe CS, VS code, Agile, Scrum, Kanban, Miro, Jira, Figma, Canva, Notion
 
 🌱 My soft skills: <br>
 Communication skills, responsibility, leadership skills, critical thinking, proactivity, ability to present concepts, justifying your design decisions, emotional intelligence
