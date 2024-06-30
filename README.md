@@ -1,5 +1,5 @@
 👋 Hi, I’m Alex - Web Developer <br>
-I'm specializing in corporate websites, landing pages, online shops, and web applications.
+I specialize in corporate websites, landing pages, online shops, and web applications.
 Proficient in CMS platforms such as WordPress (WooCommerce) and other CMS. Skilled in developing web
 applications using React JS and JavaScript, with strong expertise in HTML, CSS, Bootstrap, Tailwind.CSS and etc.
 Adept at quickly learning new technologies and continuously expanding my skill set. Additional competencies
