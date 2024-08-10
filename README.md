@@ -1,9 +1,9 @@
-👋 Hi, I’m Alex - Web Developer <br>
-I specialize in corporate websites, landing pages, online shops, and web applications.
-Proficient in CMS platforms such as WordPress (WooCommerce) and other CMS. Skilled in developing web
-applications using React JS and JavaScript, with strong expertise in HTML, CSS, Bootstrap, Tailwind.CSS and etc.
-Adept at quickly learning new technologies and continuously expanding my skill set. Additional competencies
-include photo processing, SEO, and Project management. Proven track record of working in distributed, cross-functional teams and contributing to startup development.
+👋 Hi, I’m Alex - Web Developer 🥷 <br>
+Frontend Developer with a strong focus on writing clean, reusable code. Proficient in HTML, CSS, and JavaScript (ES6), with expertise in both pure CSS and SCSS/SASS preprocessors. Comfortable working with any CSS framework, including Bootstrap, Tailwind, and modules.css.
+
+Passionate about React.js and well-versed in backend technologies like PHP, Laravel, and SQL/noSQL databases. Extensive experience with WordPress, including custom themes, plugins, and advanced features like Page Builder, Elementor, and ACF.
+
+Skilled in deploying projects using Docker and setting up CI/CD pipelines via GitLab. Experienced with Git, REST APIs, Figma, Adobe Creative Suite, and a wide range of development tools. Prefer working in the console over GUI. :smirk:
 
 👀 My technical skills: <br>
 HTML, CSS, JavaScript, SCSS/SASS, Bootstrap, Webpack, ReactJS, Laravel, Git, Docker, Axios, REST API, SQL, DRY, KISS, SOLID,
