@@ -6,7 +6,7 @@ Passionate about React.js and well-versed in backend technologies like PHP, Lara
 Skilled in deploying projects using Docker and setting up CI/CD pipelines via GitLab. Experienced with Git, REST APIs, Figma, Adobe Creative Suite, and a wide range of development tools. Prefer working in the console over GUI. :smirk:
 
 👀 My technical skills: <br>
-HTML, CSS, JavaScript, SCSS/SASS, Bootstrap, Webpack, ReactJS, Laravel, Git, Docker, Axios, REST API, SQL, DRY, KISS, SOLID,
+HTML, CSS, JavaScript, SCSS/SASS, Bootstrap, Webpack, ReactJS, Laravel, Git, Docker, Axios, REST API, SQL,
 Adobe CS, VS code, Agile, Scrum, Kanban, Miro, Jira, Figma, Canva, Notion
 
 🌱 My soft skills: <br>
